@@ -4,11 +4,9 @@
 @import 'navbar';
 @import 'profile';
 @import 'page';
-@import 'skills';
 @import 'hobbies';
-@import 'footer_minimal';
 @import 'variables';
-@import 'variables_dark';
+
 .card-container {
     display: grid;
     grid-template-columns: repeat($cardnum_big, 1fr);
