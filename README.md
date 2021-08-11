@@ -3,7 +3,7 @@
 This is a Jekyll website designed using a template by MLH-Fellowship, used in accordance with their License.
 
 ## To visit the website created by this project go to: 
-https://eliboss.github.io/elizabeths-portfolio/
+https://elleanne.github.io/elizabeths-portfolio/
 
 # Files in this repository: 
 
